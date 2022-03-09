@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams](https://teams.microsoft.com/l/channel/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/General?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [MSteams](https://teams.microsoft.com/l/team/19%3adM8_WyFnk00MGHARZLQZrcWvUAFZbatGzIlZEKOQQnc1%40thread.tacv2/conversations?groupId=0f0941d0-346e-4ca2-9663-a09899cb2cb8&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: <ali.kahwaji@nmit.ac.nz>
 
 
@@ -42,7 +42,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
-|:one:|Do NOT fork the lab repo. :trident:|:heavy_multiplication_x:|
+|:one:|Do NOT fork this repo. :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code. :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message. :incoming_envelope:|:heavy_multiplication_x:|
 |:four:|Do NOT Share your repo. :closed_lock_with_key:|:heavy_multiplication_x:|
